@@ -22,7 +22,7 @@ It’s not just about analyzing ideas — it’s about helping founders make sma
 → Fully functional and user-friendly interface for testing ideas instantly
 
 ## 🧠 Built With
-Area	Tech Used
+
 NLP & Entity Extraction	spaCy, Transformers
 Sentiment Analysis	Hugging Face, VADER, TextBlob
 Risk Modeling	NumPy, Pandas, custom simulations
@@ -57,23 +57,23 @@ stress-test-platform/
 └── README.md
 
 ## 🚀 How It Works
-Enter your business idea in plain English
+1. Enter your business idea in plain English
 
-The app processes it using AI/NLP tools
+2. The app processes it using AI/NLP tools
 
-It extracts key terms, analyzes sentiment, and runs financial simulations
+3. It extracts key terms, analyzes sentiment, and runs financial simulations
 
-You'll get an overall "stress score" along with breakdowns for:
+4.You'll get an overall "stress score" along with breakdowns for:
 
-Clarity
+    -Clarity
 
-Risk
+    -Risk
 
-Innovation
+    -Innovation
 
-Financial health
+    -Financial health
 
-Market potential
+    -Market potential
 
 ## ✨ Why This Matters
 Too many ideas fail because they’re never properly validated. This tool brings AI + business thinking together to de-risk early innovation — especially useful for founders in emerging markets like India.
